@@ -1,8 +1,8 @@
 package legalEntity
 
 import (
-	t "github.com/pepelazz/nla_framework/types"
-	"github.com/pepelazz/nla_framework/utils"
+	t "github.com/NL-A/nla_framework/types"
+	"github.com/NL-A/nla_framework/utils"
 )
 
 const (

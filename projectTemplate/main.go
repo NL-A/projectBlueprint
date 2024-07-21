@@ -1,12 +1,13 @@
 package main
 
 import (
-	"github.com/otiai10/copy"
-	"github.com/[[path_to_project_direvtory]]/projectTemplate/docs/legalEntity"
-	"github.com/[[path_to_project_direvtory]]/projectTemplate/utils"
-	"github.com/pepelazz/nla_framework"
-	t "github.com/pepelazz/nla_framework/types"
 	"os"
+
+	"github.com/NL-A/nla_framework"
+	t "github.com/NL-A/nla_framework/types"
+	"github.com/[[path_to_project_directory]]/projectTemplate/docs/legalEntity"
+	"github.com/[[path_to_project_directory]]/projectTemplate/utils"
+	"github.com/otiai10/copy"
 )
 
 func main() {
