@@ -5,8 +5,8 @@ import (
 
 	"github.com/NL-A/nla_framework"
 	t "github.com/NL-A/nla_framework/types"
-	"github.com/[[path_to_project_directory]]/projectTemplate/docs/legalEntity"
-	"github.com/[[path_to_project_directory]]/projectTemplate/utils"
+	"github.com/NL-A/projectBlueprint/projectTemplate/docs/legalEntity"
+	"github.com/NL-A/projectBlueprint/projectTemplate/utils"
 	"github.com/otiai10/copy"
 )
 
